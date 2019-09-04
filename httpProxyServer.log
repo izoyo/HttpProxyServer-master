@@ -1,0 +1,133 @@
+
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():82]
+绑定IP：0.0.0.0
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():83]
+绑定端口：6666
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():89]
+ServerSocket初始化结束.
+
+2019-09-04 09:54:05 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():57]
+系统初始化完成.
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():82]
+绑定IP：0.0.0.0
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():83]
+绑定端口：801
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():89]
+ServerSocket初始化结束.
+
+2019-09-04 09:55:16 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():57]
+系统初始化完成.
+
+2019-09-04 09:55:17 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 09:55:17 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 09:55:17 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 09:55:17 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():82]
+绑定IP：0.0.0.0
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():83]
+绑定端口：801
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():89]
+ServerSocket初始化结束.
+
+2019-09-04 09:55:23 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():57]
+系统初始化完成.
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():82]
+绑定IP：0.0.0.0
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():83]
+绑定端口：801
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():89]
+ServerSocket初始化结束.
+
+2019-09-04 10:15:32 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():57]
+系统初始化完成.
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():54]
+系统初始化开始...
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():64]
+日志初始化开始...
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initLog4j():68]
+日志初始化结束...
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():77]
+ServerSocket初始化开始...
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():82]
+绑定IP：0.0.0.0
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():83]
+绑定端口：801
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.initServerSocket():89]
+ServerSocket初始化结束.
+
+2019-09-04 10:25:28 [INFO] [com.hekewangzi.httpProxyServer.HttpProxyServerMain.init():57]
+系统初始化完成.
