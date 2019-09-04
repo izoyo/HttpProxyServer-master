@@ -1,5 +1,5 @@
 # HttpProxyServer
 Http/Https代理服务器服务端
 
-先在服务器上运行HttpProxyServer，再在你的电脑上运行HttpProxyClient即可实现代理 
-若需代理Google、Youtube等网站，运行HttpProxyServer的服务器要能访问这些网站，香港或国外的服务器都可以
+直接运行“HttpProxyServerMain”的main方法，跑起来后。电脑本地设置127.0.0.1，端口801代理。
+注：更改端口，可在“Properties”类中更改。
